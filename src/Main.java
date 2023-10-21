@@ -16,9 +16,9 @@ public class Main {
     }
 
     public static void task3(){
-        int b = 1;
-        int a = 2;
-        int c = a+b;
-        System.out.println(c);
+        int theA = 1;
+        int theB = 2;
+        int theC = theA + theB;
+        System.out.println(theC);
     }
 }
